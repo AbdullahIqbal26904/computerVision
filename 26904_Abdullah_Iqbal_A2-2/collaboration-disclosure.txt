@@ -1,0 +1,3 @@
+I have not collaborated with anyone on this assignment.  
+I have not used any Generative AI tools to create the function.  
+I only used Generative AI to understand the requirements, and to understand the nms window function.
